@@ -1,0 +1,7 @@
+main: Main.main
+name: getPing
+author: GolderPatato
+version: 0.1
+commands:
+  ping: 
+    description: get player ping
